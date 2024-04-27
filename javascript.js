@@ -29,7 +29,8 @@ const request = async () => { // Calling a "synchronous" fetch
 		    "`" + country + "`"
     }
 
-    postRequest.send(JSON.stringify(params));
+    console.log(JSON.stringify(params));
+
 
 }
 
